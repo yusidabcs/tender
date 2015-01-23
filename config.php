@@ -10,7 +10,7 @@ return array(
     | You can hook a theme when event fired on activities
     | this is cool feature to set up a title, meta, default styles and scripts.
     |
-    | [Notice] these event can be override by package config.
+    | [Notice] these event can be override by package config.asdasdasdasdasdasd
     |
     */
 
